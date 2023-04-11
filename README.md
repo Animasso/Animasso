@@ -6,11 +6,11 @@
   media="(prefers-color-scheme: dark)"
   bg_color="#42f578"
 />
-<source
+<!-- <source
   srcset="https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true" /> -->
 </picture>
 <!-- [![Animasso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animasso)](https://github.com/Animasso/github-readme-stats) -->
 <!--
