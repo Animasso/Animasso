@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animasso&layout=compact)](https://github.com/Animasso/github-readme-stats)
-[![Animasso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animasso)](https://github.com/Animasso/github-readme-stats)
+![Animasso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true&theme=tokyonight)
  title_color: "70a5fd",
     icon_color: "bf91f3",
     text_color: "38bdae",
