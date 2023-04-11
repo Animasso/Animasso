@@ -1,6 +1,17 @@
+
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Animasso&repo=github-readme-stats)](https://github.com/Animasso/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animasso)](https://github.com/Animasso/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Animassso&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true" />
+</picture>
+[![Animasso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animasso)](https://github.com/Animasso/github-readme-stats)
 <!--
 **Animasso/Animasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
