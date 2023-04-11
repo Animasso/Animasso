@@ -19,7 +19,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Visitez mon portfolio pour voir les différents projets
+## Visitez mon portfolio pour voir mes projets
 
 [Lien Portfolio](https://portofolio-next-ptnmjctjo-animasso.vercel.app/)
 
