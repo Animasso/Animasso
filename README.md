@@ -4,6 +4,7 @@
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Animassso&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
+  bg_color="#42f578"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true"
