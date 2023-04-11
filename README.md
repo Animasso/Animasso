@@ -1,7 +1,8 @@
 
 # Hello ici Animasso Sidibé développeur Frontnend React👋
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animasso&layout=compact)](https://github.com/Animasso/github-readme-stats"/>
 <img align="left"src="https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true&theme=tokyonight"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animasso&layout=compact)](https://github.com/Animasso/github-readme-stats"/>
+
 
 
 <!--
