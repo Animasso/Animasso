@@ -1,5 +1,5 @@
 
-# Hello ici Animasso Sidibé dévellopeur Frontnend React👋
+# Hello ici Animasso Sidibé développeur Frontnend React👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animasso&layout=compact)](https://github.com/Animasso/github-readme-stats)
 ![Animasso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animasso&show_icons=true&theme=tokyonight)
 
